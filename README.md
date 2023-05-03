@@ -1,3 +1,20 @@
+# 安装
+```bash
+
+x64
+cp v2ray-linux-64.zip v2ray-linux.zip
+run.sh
+
+
+https://github.com/xiahaijiao/go-shadowsocks2
+
+
+```
+
+
+
+
+
 # fhs-install-v2ray
 
 > 欲查阅以简体中文撰写的介绍，请访问：[README.zh-Hans-CN.md](README.zh-Hans-CN.md)
